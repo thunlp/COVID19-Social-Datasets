@@ -10,7 +10,7 @@
 
 ## 数据地址
 
-下载链接：https://cloud.tsinghua.edu.cn/d/866cca7c48504f609dd5/
+下载链接：http://101.200.238.135/news/
 
 密码：newsforncp
 

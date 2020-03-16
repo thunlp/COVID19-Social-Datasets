@@ -10,8 +10,7 @@
 
 ## 数据地址
 
-下载链接：https://cloud.tsinghua.edu.cn/d/30f2b96d356745dfa8aa/
-密码：legaldocforNCP
+下载链接：http://101.200.238.135/legal_docs/
 
 ## 数据内容说明
 
