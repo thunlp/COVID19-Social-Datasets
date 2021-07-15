@@ -10,7 +10,7 @@
 
 ## 数据地址
 
-下载链接：http://101.200.238.135/news/
+下载链接：https://covid19.thunlp.org/archives/4/
 
 密码：newsforncp
 
