@@ -10,7 +10,7 @@
 
 ## 数据地址
 
-下载链接：http://101.200.238.135/legal_docs/
+下载链接：https://covid19.thunlp.org/archives/3/
 
 ## 数据内容说明
 
